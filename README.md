@@ -35,7 +35,7 @@ Once the dependencies are installed, you can run npm start to start the applicat
 
 Development Key: The REACT_APP_SPOTIFY_PUBLIC_KEY is for development purposes and does not represent the actual application key. Feel free to create a new key by going to Spotify developer.
 
-RedirectURI: The RedirectUri is my own URI. Feel free to use localhost:3000 or input your own uri.
+RedirectURI: The RedirectUri is my own URI. Feel free to use localhost:3000 or input your own URI.
 
 
 ## Project Status
