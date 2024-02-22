@@ -1,5 +1,5 @@
 # Playlist Maker
-A website that allows users to search the Spotify library, create a custom playlist, name it and then save it to their Spotify account using the Spotify API
+A web app enabling users to explore the Spotify library, craft personalized playlists, name them, and seamlessly save them to their Spotify accounts using the Spotify API. 
 
 
 ## Table of Contents
@@ -20,8 +20,8 @@ A website that allows users to search the Spotify library, create a custom playl
 
 
 ## Features
-- Create a custom playlist, name and save it to Spotify account
-- Allows OAuth 2 Authentication login
+- Create a custom playlist, name it, and save it to Spotify account.
+- Allows OAuth 2 Authentication login.
 
 
 ## Setup
@@ -35,10 +35,12 @@ Once the dependencies are installed, you can run npm start to start the applicat
 
 Development Key: The REACT_APP_SPOTIFY_PUBLIC_KEY is for development purposes and does not represent the actual application key. Feel free to create a new key by going to Spotify developer.
 
+RedirectURI: The RedirectUri is my own URI. Feel free to use localhost:3000 or input your own URI.
+
 
 ## Project Status
 Project is: _Complete_ 
 
 
 ## Contact
-By Jairo(Jay) Velazquez - feel free to contact me!
+By Jairo(Jay) Velazquez
